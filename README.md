@@ -1,4 +1,16 @@
-_Support this and all my katas via [Patreon](https://www.patreon.com/EmilyBache)_
+# AI Quality: O Desafio Gilded Rose
+# Roteiro de Execução
+Fase 1: Engenharia de Prompt e Geração
+Utilizando o repositório do Gilded Rose Refactoring Kata (Emily Bache) como base, vocês
+deverão iterar com a IA escolhida. O objetivo aqui é explorar diferentes formas de pedir
+(prompts):
+● Solicitem a criação de uma suíte de testes unitários para o sistema.
+● Ponto de Atenção: Salvem os prompts utilizados. Vocês precisarão demonstrar no
+vídeo se usaram técnicas como "Chain-of-Thought", "Persona Pattern" ou se apenas
+colaram o código.
+Fase 2: A Auditoria de Qualidade (O Coração do Trabalho)
+É aqui que a nota é definida. Com o código gerado pela IA em mãos, vocês devem agir
+como "Advogados do Diabo", verificando se os testes gerados foram adequados.
 
 # Gilded Rose Refactoring Kata
 
