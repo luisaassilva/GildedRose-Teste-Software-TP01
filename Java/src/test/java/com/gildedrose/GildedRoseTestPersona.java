@@ -3,7 +3,7 @@ package com.gildedrose;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 
-class GildedRoseTest {
+class GildedRoseTestPersona {
 
     private Item update(Item item) {
         Item[] items = new Item[] { item };
